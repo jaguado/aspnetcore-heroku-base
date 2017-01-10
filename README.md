@@ -12,4 +12,4 @@ AspNetCore ready to run on heroku.
 > heroku open
 
 **Example app:**  
-https://aspnetcore-heroku-base.herokuapp.com/
+https://dotnet.jamtech.cl  
